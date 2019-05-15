@@ -2,7 +2,7 @@
 
 
 
-* This assignment was writen in NodeJS (version 8.12), as text editor I used sublime text. 
+* This assignment was writen in NodeJS (version 8.12), as text editor I used Sublime text. 
 
 * It finds and counts the values from the data.JASON that matches with the user input.
 * ex. when you type: "Inuput" or "Box", it will give you the results found. For value "Input" it should return resoult 26, for "Box" it should return resoult 5.
